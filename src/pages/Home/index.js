@@ -36,7 +36,7 @@ function Home() {
 
      return (
       <div className="home-container">
-        <h1>Tarefas</h1>
+        <h1> Gerencie suas Tarefas</h1>
         <span> Gerenciar o dia a dia de forma facil</span>
 
         <form className="form" onSubmit={handleLogin}>
